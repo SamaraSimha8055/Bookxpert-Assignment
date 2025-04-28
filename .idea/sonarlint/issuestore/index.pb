@@ -172,3 +172,5 @@ G.idea/sonarlint/issuestore/d/7/d7595319a0658be6f1ed500ad590d42e4b28bc4f,e\7\e7
 Q.idea/sonarlint/securityhotspotstore/0/8/082eb3d0fee42ec2d73cb3a4da788798112077a0,8\0\808cc1768047e759a08d6c629149747bb676ea21
 w
 G.idea/sonarlint/issuestore/8/c/8c55c3ccc257e5907959013f99656e4c8ec3903e,3\2\32813322c99a6c8a141ab2dc12bc10af3425f1b4
+
+Oapp/src/main/java/com/example/bookxperttest/activities/GetNavigationActivity.kt,5\7\573e14ed06865d5bc428fa8879345f562bca54ed

@@ -26,5 +26,9 @@ class HomeActivity : AppCompatActivity() {
         findViewById<Button>(R.id.btnApiList).setOnClickListener {
             startActivity(Intent(this, ApiListActivity::class.java))
         }
+
+        findViewById<Button>(R.id.btnGetLocation).setOnClickListener {
+            startActivity(Intent(this, GetNavigationActivity::class.java))
+        }
     }
 }
